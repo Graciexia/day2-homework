@@ -4,7 +4,8 @@
 	width:460px;
 }
 .S1 {
-	background-color:white;
+	background-color: white;
+	background:url(images/logo.png);
 	height:32px;
 	width:32px;
 	margin-left: 12px;
@@ -42,7 +43,7 @@
 	font-family: Arial;
 }
 .DB1 {
-	background-color:rgb(52,64,81);
+	background: url(images/crowd.jpg);
 	height:1030px;
 	width:460px;
 	padding-bottom:78px
@@ -79,7 +80,7 @@
 	margin-top: 216px;
 }
 .box4{
-	background-color:white;
+	background:url(images/tablet.png);
 	height:68px;
 	width:303px;
 	margin-bottom: 33px;
@@ -101,7 +102,7 @@
 	position: relative;
 }
 .box5 {
-	background-color:white;
+	background:url(images/newspaper.png);
 	height:68px;
 	width:303px;
 	margin-bottom: 33px;
@@ -123,7 +124,7 @@
 	position: relative;
 }
 .box6{
-	background-color:white;
+	background:url(images/paint-brush.png);
 	height:68px;
 	width:303px;
 	margin-left:78px;
@@ -199,7 +200,7 @@
 	padding-top:20px;
 }
 .W1 {
-	background-color:rgb(197,210,217);
+	background:url(images/lightbulb.png);
 	height:63px;
 	width:63px;
 	margin-right:190px;
@@ -232,7 +233,7 @@
 	padding-top:20px;
 }
 .W4 {
-	background-color:rgb(197,210,217);
+	background:url(images/cloud.png);
 	height:63px;
 	width:63px;
 	margin-right:190px;
@@ -265,7 +266,7 @@
 	padding-top:20px;
 }
 .W7 {
-	background-color:rgb(197,210,217);
+	background:url(images/code.png);
 	height:63px;
 	width:63px;
 	margin-right:190px;
@@ -298,7 +299,7 @@
 	padding-top:20px;
 }
 .W10 {
-	background-color:rgb(197,210,217);
+	background:url(images/comments.png);
 	height:63px;
 	width:63px;
 	margin-right:190px;
@@ -331,7 +332,7 @@
 	padding-top:20px;
 }
 .W13 {
-	background-color:rgb(197,210,217);
+	background:url(images/gift.png);
 	height:63px;
 	width:63px;
 	margin-right:190px;
@@ -363,7 +364,7 @@
 	padding-top:20px;
 }
 .W16 {
-	background-color:rgb(197,210,217);
+	background:url(images/globe.png);
 	height:63px;
 	width:63px;
 	margin-right:190px;
@@ -471,7 +472,7 @@
 }
 
 .box9{
-	background-color:white;
+	background:url(images/automattic.png);
 	height:24px;
 	width:134px;
 	margin-left:164px;
